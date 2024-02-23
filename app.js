@@ -1,0 +1,2 @@
+let computerMove='';
+let result='';
